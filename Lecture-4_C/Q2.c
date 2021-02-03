@@ -1,4 +1,6 @@
 #include<stdio.h> 
+int main()
+{  
     unsigned short int a;
     printf("Write Value of unsigned short int: ");
     scanf("%hu",&a);
@@ -55,7 +57,6 @@
     printf("Write a number to find a character: ");
     scanf("%d",&n);
     printf("Value of integer n is %c",n);
-    return 0;
     //char remaining
 
     return 0;
