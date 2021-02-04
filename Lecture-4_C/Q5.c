@@ -2,7 +2,7 @@
 int main()
 {
 	int a , b , c , d , e;
-	printf("Enter the number:");
+	printf("Enter any 4-digit number:");
 	scanf("%d",&a);
 	b=a%10;
 	c=(a/10)%10;

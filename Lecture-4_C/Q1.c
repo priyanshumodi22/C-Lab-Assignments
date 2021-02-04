@@ -1,3 +1,5 @@
+/* Enter any integer value to convert it into octal , hexa and decimal value.
+*/
 #include<stdio.h>
 int main()
 {
