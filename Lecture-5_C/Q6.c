@@ -4,7 +4,7 @@
 #include<stdio.h>
 int main(){
 int num,a,b,c,d,e,f,g;
-printf("Enter any 4-digit integer ");
+printf("Enter any 4-digit integer: ");
 scanf("%d",&num);
 a=num%10;
 b=(num/10)%10;
