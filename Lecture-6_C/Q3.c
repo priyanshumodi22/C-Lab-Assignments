@@ -13,5 +13,6 @@ int main()
 
 	f = e | c | d;
 	printf("%X ", f);
+	
 	return 0;
 }

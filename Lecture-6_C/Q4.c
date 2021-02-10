@@ -22,5 +22,6 @@ int main()
 	g = c|e;
 	
 	printf("%d\n%d",f,g);
+	
 	return 0;
 }

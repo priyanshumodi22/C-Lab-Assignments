@@ -12,5 +12,6 @@ int main()
 	d<<4;
     i=d|c;
     printf("After interchanging : %x resp.\n", i);
+	
     return 0;
 }
