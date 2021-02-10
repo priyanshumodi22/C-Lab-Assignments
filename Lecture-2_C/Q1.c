@@ -7,6 +7,5 @@ int main()
     printf("\nxyz");
     printf("\vpqr");
     
-
     return 0;
 }

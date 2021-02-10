@@ -8,5 +8,6 @@ int main()
     printf("\nABC\t  2031\t  30");
     printf("\nDEF\t  2092\t  35");
     printf("\nXYZ\t  2013\t  36");
+    
     return 0;
 }
