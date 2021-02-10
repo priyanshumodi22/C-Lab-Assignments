@@ -5,7 +5,6 @@ int main()
 	printf("Enter any two char: \n");
 	scanf("%c",&a);
 	scanf("%c",&h);
-
 	b = a & 0XF0;
 	
 	c = a & 0X0F;
