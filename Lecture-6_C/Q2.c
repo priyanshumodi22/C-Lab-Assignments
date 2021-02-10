@@ -14,7 +14,6 @@ int main()
 	 
 	 e = a & 0XFF000000;
 	 e = e >> 24;
-	 
 	 printf("%X %X %X %X\n",e,d,c,b);
 
 	 return 0;
