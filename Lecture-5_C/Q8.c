@@ -15,7 +15,8 @@ int main()
 	num5=(b/10000)%10;
 	num6=(b/100000)%10;
 	int last2=b%100;
-	(last2<50) ? printf("\nThe no. is : %d.%d",(num6*10+num5),(num4*1000+num3*100)) : printf("\nThe no. is : %d.%d", (num6*10+num5),(num4*1000+(++num3)*100));
+	(last2<50) ? printf("\nThe no. is : %d.%d",(num6*10+num5),(num4*1000+num3*100)) : 
+	printf("\nThe no. is : %d.%d", (num6*10+num5),(num4*1000+(++num3)*100));
 
 	return 0;
 }
