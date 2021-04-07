@@ -14,8 +14,6 @@ int main()
         x=y;
         y=c;
     }
-
-
     for(i=0;i<n;i++)
     {
         printf("%d ",a[i]);
